@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm @Kaburanet. I like to make interesting things and automate things.
+I'm Kaburanet. I like to make interesting things and automate things.
 
 |   SNS   | Account |
 |  :---:  |  :---:  |
